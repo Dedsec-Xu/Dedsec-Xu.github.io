@@ -74,7 +74,7 @@ We get the category of the product
 ## matlab music player
 https://github.com/Dedsec-Xu/Matlab_music
 
-A simple matlab music player with multiple functions: Piano mode
+A simple MATLAB music player with multiple functions: Piano mode, equalizer, spectrum, wave visualizer. I developed it using MATLAB.
 
 ![Image text](./image/matlab1.png)
 ![Image text](./image/matlab2.gif)
@@ -94,8 +94,7 @@ A swift playground demonstrating eight queen problem with a game.
 
 https://youtu.be/e310kDNNbSg?t=247
 
-A swift playground demonstrating eight queen problem with a game.
-
+A swift playground demonstrating eight queen problem with a game.In my freshman year, I teamed up with 2 classmates to finish a project called Music Power Amplifier and Waveform Visualizer, which is a HiFi music amplifier capable of visualizing the music spectrum with RGBs.
 ![Image text](./image/light.gif)
 
 
